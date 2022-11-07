@@ -1,0 +1,2 @@
+:root{font-family:Arial,sans-serif}body{margin:0}.snake{display:grid;grid-template-columns:repeat(auto-fill,minmax(300px,1fr))}@media (min-width:900px){.snake{grid-template-columns:repeat(3,minmax(300px,1fr))}}.snake__item{height:300px;text-align:center;font-size:100px;line-height:300px;color:#fff}.snake__item--1{background:red}.snake__item--2{background:#c00}.snake__item--3{background:#900}.snake__item--4{background:#600}.snake__item--5{background:#300}.snake__item--6{background:#000}
+/*# sourceMappingURL=main.06fbdddd.css.map */
